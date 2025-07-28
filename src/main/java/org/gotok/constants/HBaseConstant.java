@@ -1,0 +1,14 @@
+package org.gotok.constants;
+
+public class HBaseConstant {
+
+    public static final String HBASE_COLUMN_FAMILY_NAME = "ts";
+    public static final String TABLESTORE_HBASE_CLIENT_CONNECTION_CLASS = "TABLESTORE_HBASE_CLIENT_CONNECTION_CLASS";
+    public static final String TABLESTORE_CLIENT_ACCESS_KEY_ID = "TABLESTORE_CLIENT_ACCESS_KEY_ID";
+    public static final String TABLESTORE_CLIENT_ACCESS_KEY_SECRET = "TABLESTORE_CLIENT_ACCESS_KEY_SECRET";
+    public static final String TABLESTORE_CLIENT_ENDPOINT = "TABLESTORE_CLIENT_ENDPOINT";
+    public static final String TABLESTORE_CLIENT_INSTANCE_NAME = "TABLESTORE_CLIENT_INSTANCE_NAME";
+    public static final String TABLESTORE_CLIENT_REGION_ID = "TABLESTORE_CLIENT_REGION_ID";
+    public static final String HBASE_CLIENT_TABLESTORE_FAMILY = "HBASE_CLIENT_TABLESTORE_FAMILY";
+
+}
